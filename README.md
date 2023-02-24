@@ -8,6 +8,7 @@ Jupyter Notebook 6.5.2
 Tableau Desktop Public 2022.4.0
 CitiBike [data](https://s3.amazonaws.com/tripdata/index.html)
 File name:  201908-citibike-tripdata.csv.zip 
+Link to Dashboard (https://public.tableau.com/app/profile/david.hart3917/viz/NYC_CitiBike_Challenge_16770382028050/NYCCitiBikeAssessment?publish=yes)
 
 ## Overview
 ### Why are we doing this?
