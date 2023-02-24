@@ -93,4 +93,4 @@ I feel that there are a few more visuals that should be explored to gather great
 2. Calcuate speed, since we know the precise start and stop times of each ride we could track what stops have the fastest time between.
 3. Topography, it would be interesting to see how the topography of Des Moines compares to that of New York because this would effect potential users interest.
 
-[
+[ink to story](https://public.tableau.com/app/profile/david.hart3917/viz/NYC_CitiBike_Challenge_16770382028050/NYCCitiBikeAssessment?publish=yes)
